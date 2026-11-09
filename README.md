@@ -1,39 +1,42 @@
 # Hi there! 👋
 
-**Aspiring Python Developer**
+I'm learning **Python** and developing practical projects to improve my programming skills.
 
-Currently learning Python and building practical projects to develop my programming skills.
-
-### 🧰 Technologies & Tools
+### Currently Learning 🌱
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Python, VS Code, Git and GitHub" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
-### 🚀 Featured Project
+### Tools 🛠️
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
+</p>
+
+### Current Project 🚀
 
 **Sales Report**
 
 A Python application for managing and analyzing sales data.
 
-| Planned Features |
-|:---|
-| CSV data importing |
-| Data validation and processing |
-| Revenue, costs and profit calculations |
-| Sales report generation |
+**Planned Features:**
+- Importing product and purchase data from CSV files
+- Data validation and processing
+- Revenue, costs and profit calculations
+- Generating sales reports
 
-### 👨‍💻 About Me
+### About Me 📌
 
-- 🌱 Focused on learning Python
-- 💻 Interested in software development and practical applications
-- 🛠️ Learning through hands-on projects
-- 🎮 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
+- Currently focused on learning Python
+- Interested in software development and practical applications
+- Building projects to gain hands-on experience
+- 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
 
 ---
 
 <p align="center">
-  <i>Learn something new. Build something useful.</i>
+  <sub>Learning by building. Improving with every project.</sub>
 </p>
 
 <!--
