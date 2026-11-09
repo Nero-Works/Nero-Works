@@ -2,6 +2,7 @@
 
 I'm learning **Python** and developing practical projects to improve my programming skills.
 
+<br>
 
 ## Currently Learning 🌱
 
