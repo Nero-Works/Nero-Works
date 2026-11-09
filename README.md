@@ -19,6 +19,14 @@
   <img src="./tech-badges/godot.svg" alt="Godot" height="40" style="vertical-align: middle;"/>
 </p>
 
+<h3>About Me 📌</h3>
+
+<ul>
+  <li>Interested in software development and practical applications</li>
+  <li>Building projects to gain hands-on experience</li>
+  <li>2D game development as a hobby using Godot</li>
+</ul>
+
 <h3>Current Project 🚀</h3>
 
 <h4>Sales Report</h4>
@@ -33,12 +41,4 @@
   <li>Importing product and purchase data from CSV files</li>
   <li>Data validation and processing</li>
   <li>Revenue, costs and profit calculations</li>
-</ul>
-
-<h3>About Me 📌</h3>
-
-<ul>
-  <li>Interested in software development and practical applications</li>
-  <li>Building projects to gain hands-on experience</li>
-  <li>2D game development as a hobby using Godot</li>
 </ul>
