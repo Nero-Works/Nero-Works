@@ -38,7 +38,6 @@
 <h3>About Me 📌</h3>
 
 <ul>
-  <li>Currently focused on learning Python</li>
   <li>Interested in software development and practical applications</li>
   <li>Building projects to gain hands-on experience</li>
   <li>2D game development as a hobby using Godot</li>
