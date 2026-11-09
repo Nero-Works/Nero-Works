@@ -24,7 +24,6 @@ A Python application for managing and analyzing sales data.
 - Importing product and purchase data from CSV files
 - Data validation and processing
 - Revenue, costs and profit calculations
-- Generating sales reports
 
 ### About Me 📌
 
