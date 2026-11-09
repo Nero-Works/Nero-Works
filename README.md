@@ -1,42 +1,36 @@
 # Hi there! 👋
 
-I'm learning **Python** and developing practical projects to improve my programming skills.
+I'm learning **Python** and building practical projects to improve my programming skills.
 
----
-
-## Currently Learning 🌱
+## 🌱 Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
-## Tools 🛠️
+## 🛠️ Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
 </p>
 
-## Current Project 🚀
+## 🚀 Current Project
 
 ### Sales Report
 
 A Python application for managing and analyzing sales data.
 
-**Planned features:**
-- Importing product and purchase data from CSV files
+**Planned features**
+- CSV data importing
 - Data validation and processing
 - Revenue, costs and profit calculations
 
----
-
-## About Me 📌
+## 👨‍💻 About Me
 
 - Currently focused on learning Python
 - Interested in software development and practical applications
 - Building projects to gain hands-on experience
-- Game development as a hobby, mainly using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
-
----
+- Game development as a hobby, mainly with Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
 
 <p align="center">
   <sub>Learning by building. Improving with every project.</sub>
