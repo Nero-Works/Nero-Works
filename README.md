@@ -1,4 +1,3 @@
-
 <h1>Hi there! 👋</h1>
 
 <p>
@@ -8,15 +7,16 @@
 <h3>Currently Learning 🌱</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="./tech-badges/python.svg" alt="Python" height="40" />
 </p>
 
 <h3>Tools 🛠️</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="./tech-badges/visual-studio-code.svg" alt="Visual Studio Code" height="40" />
+  <img src="./tech-badges/git.svg" alt="Git" height="40" />
+  <img src="./tech-badges/github.svg" alt="GitHub" height="40" />
+  <img src="./tech-badges/godot.svg" alt="Godot" height="40" />
 </p>
 
 <h3>Current Project 🚀</h3>
