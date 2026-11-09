@@ -8,11 +8,15 @@ I'm learning **Python** and building practical projects to improve my programmin
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
+<br>
+
 ## Tools 🛠️
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
 </p>
+
+<br>
 
 ## Current Project 🚀
 
@@ -25,12 +29,16 @@ A Python application for managing and analyzing sales data.
 - Data validation and processing
 - Revenue, costs and profit calculations
 
+<br>
+
 ## About Me 📌
 
 - Currently focused on learning Python
 - Interested in software development and practical applications
 - Building projects to gain hands-on experience
 - Game development as a hobby, mainly with Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
+
+<br>
 
 <p align="center">
   <sub>Learning by building. Improving with every project.</sub>
