@@ -4,19 +4,19 @@ I'm learning **Python** and developing practical projects to improve my programm
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning 🌱
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
-## 🛠️ Tools
+## Tools 🛠️
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
 </p>
 
-## 🚀 Current Project
+## Current Project 🚀
 
 ### Sales Report
 
@@ -30,11 +30,12 @@ A Python application for managing and analyzing sales data.
 
 ---
 
-## 📌 About Me
+## About Me 📌
 
 - Currently focused on learning Python
 - Interested in software development and practical applications
 - Building projects to gain hands-on experience
+- 2D game development as a hobby using Godot
 
 ---
 
