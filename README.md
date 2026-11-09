@@ -5,13 +5,13 @@ I'm learning **Python** and developing practical projects to improve my programm
 ### Currently Learning 🌱
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="47"/>
 </p>
 
 ### Tools 🛠️
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="42"/>
 </p>
 
 ### Current Project 🚀
