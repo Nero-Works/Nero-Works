@@ -13,10 +13,10 @@
 <h3>Tools 🛠️</h3>
 
 <p align="left">
-	<img src="tech-badges/visual-studio-code.svg" alt="VS Code" height="40"/>
-	<img src="tech-badges/git.svg" alt="Git" height="40"/>
-	<img src="tech-badges/github.svg" alt="GitHub" height="40"/>
-	<img src="tech-badges/godot.svg" alt="Godot" height="40"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
 </p>
 
 <h3>Current Project 🚀</h3>
