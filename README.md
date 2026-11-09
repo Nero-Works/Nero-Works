@@ -28,14 +28,12 @@ A Python application for managing and analyzing sales data.
 - Revenue, costs and profit calculations
 - Generating sales reports
 
----
-
 ## About Me 📌
 
 - Currently focused on learning Python
 - Interested in software development and practical applications
 - Building projects to gain hands-on experience
-- 2D game development as a hobby using Godot
+- 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
 
 ---
 
