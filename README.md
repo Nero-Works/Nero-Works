@@ -16,7 +16,7 @@ I'm learning **Python** and developing practical projects to improve my programm
 
 ### Current Project 🚀
 
-**Sales Report**
+#### Sales Report
 
 A Python application for managing and analyzing sales data.
 
