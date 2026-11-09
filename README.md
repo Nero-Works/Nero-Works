@@ -1,45 +1,43 @@
-# Hi there! 👋
 
-I'm learning **Python** and developing practical projects to improve my programming skills.
+<h1>Hi there! 👋</h1>
 
-### Currently Learning 🌱
+<p style="font-size: 18px;">
+  I'm learning <strong>Python</strong> and developing practical projects to improve my programming skills.
+</p>
+
+<h3>Currently Learning 🌱</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
-### Tools 🛠️
+<h3>Tools 🛠️</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
 </p>
 
-### Current Project 🚀
+<h3>Current Project 🚀</h3>
 
-#### Sales Report
+<h4>Sales Report</h4>
 
-A Python application for managing and analyzing sales data.
+<p style="font-size: 18px;">
+  A Python application for managing and analyzing sales data.
+</p>
 
-**Planned Features:**
-- Importing product and purchase data from CSV files
-- Data validation and processing
-- Revenue, costs and profit calculations
+<p style="font-size: 18px;"><strong>Planned Features:</strong></p>
 
-### About Me 📌
+<ul style="font-size: 18px;">
+  <li>Importing product and purchase data from CSV files</li>
+  <li>Data validation and processing</li>
+  <li>Revenue, costs and profit calculations</li>
+</ul>
 
-- Currently focused on learning Python
-- Interested in software development and practical applications
-- Building projects to gain hands-on experience
-- 2D game development as a hobby using Godot
+<h3>About Me 📌</h3>
 
-<!--
-**Nero-Works/Nero-Works** is a special repository because its README appears on your GitHub profile.
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul style="font-size: 18px;">
+  <li>Currently focused on learning Python</li>
+  <li>Interested in software development and practical applications</li>
+  <li>Building projects to gain hands-on experience</li>
+  <li>2D game development as a hobby using Godot</li>
+</ul>
