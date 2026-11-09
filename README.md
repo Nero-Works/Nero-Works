@@ -1,39 +1,40 @@
 # Hi there! 👋
 
-I'm learning **Python** and developing practical projects to improve my programming skills.
+**Aspiring Python Developer**
 
-<br>
+Currently learning Python and building practical projects to develop my programming skills.
 
-## Currently Learning 🌱
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
-</p>
-
-## Tools 🛠️
+### 🧰 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Python, VS Code, Git and GitHub" height="42"/>
 </p>
 
-## Current Project 🚀
+### 🚀 Featured Project
 
-### Sales Report
+**Sales Report**
 
 A Python application for managing and analyzing sales data.
 
-**Planned features:**
-- Importing product and purchase data from CSV files
-- Data validation and processing
-- Revenue, costs and profit calculations
-- Generating sales reports
+| Planned Features |
+|:---|
+| CSV data importing |
+| Data validation and processing |
+| Revenue, costs and profit calculations |
+| Sales report generation |
 
-## About Me 📌
+### 👨‍💻 About Me
 
-- Currently focused on learning Python
-- Interested in software development and practical applications
-- Building projects to gain hands-on experience
-- 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
+- 🌱 Focused on learning Python
+- 💻 Interested in software development and practical applications
+- 🛠️ Learning through hands-on projects
+- 🎮 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
+
+---
+
+<p align="center">
+  <i>Learn something new. Build something useful.</i>
+</p>
 
 <!--
 **Nero-Works/Nero-Works** is a special repository because its README appears on your GitHub profile.
