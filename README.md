@@ -1,52 +1,55 @@
-# NERO / WORKS
+# Hi there! 👋
 
-**SOFTWARE DEVELOPMENT · PERSONAL PROJECTS**
-
-> Building things. Learning by doing.
+I'm learning **Python** and developing practical projects to improve my programming skills.
 
 ---
 
-### ABOUT
-
-I'm an aspiring software developer focused on building practical applications and exploring software development through hands-on projects.
-
-Currently focusing on Python and continuously improving my programming skills.
-
----
-
-### TECHNOLOGIES
-
-**01 / DEVELOPMENT**
+## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,godot" height="36" alt="Python and Godot"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
 </p>
 
-**02 / TOOLS**
+## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="36" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
 </p>
 
----
+## 🚀 Current Project
 
-### SELECTED PROJECTS
+### Sales Report
 
-Currently working on personal projects focused on practical programming and application development.
+A Python application for managing and analyzing sales data.
 
-More coming soon.
-
----
-
-### CURRENTLY EXPLORING
-
-- Python application development
-- Data structures and problem solving
-- Software architecture
-- Building functional, maintainable applications
+**Planned features:**
+- Importing product and purchase data from CSV files
+- Data validation and processing
+- Revenue, costs and profit calculations
+- Generating sales reports
 
 ---
 
-<sub>INDEPENDENT DEVELOPMENT · EST. 2026</sub>
+## 📌 About Me
 
-<sub>© NERO / WORKS</sub>
+- Currently focused on learning Python
+- Interested in software development and practical applications
+- Building projects to gain hands-on experience
+
+---
+
+<p align="center">
+  <sub>Learning by building. Improving with every project.</sub>
+</p>
+
+<!--
+**Nero-Works/Nero-Works** is a special repository because its README appears on your GitHub profile.
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
