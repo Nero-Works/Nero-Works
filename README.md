@@ -1,59 +1,43 @@
 # Hi there! 👋
 
-I'm learning **Python** and building practical projects to improve my programming skills.
+I'm a passionate developer focused on building practical applications and expanding my software engineering skills through hands-on projects.
 
-<br>
+---
 
-## Currently Learning 🌱
+### 🛠️ Tech Stack & Tools
 
+**Languages & Engine**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45"/>
+	<img src="https://skillicons.dev/icons?i=python,godot" alt="Python & Godot" height="40" />
 </p>
 
-<br>
-
-## Tools 🛠️
-
+**Tools & Environment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git and GitHub" height="40"/>
+	<img src="https://skillicons.dev/icons?i=vscode,git,github,cmd" alt="VS Code, Git, GitHub & Windows Terminal" height="40" />
 </p>
 
-<br>
+---
 
-## Current Project 🚀
+### 🚀 Current Project
 
-### Sales Report
+#### 📊 Sales Data Manager
+A Python application designed for efficient sales data processing and analytics.
 
-A Python application for managing and analyzing sales data.
+**Planned Features:**
+- 📥 CSV data ingestion and parsing
+- 🛡️ Robust data validation and cleaning
+- 📈 Automated revenue, cost, and profit calculations
 
-**Planned features**
-- CSV data importing
-- Data validation and processing
-- Revenue, costs and profit calculations
+---
 
-<br>
+### 📌 About Me
 
-## About Me 📌
+- 🐍 **Primary Focus:** Deepening knowledge of Python and desktop application development.
+- 🎮 **Hobby:** Creating 2D games and mechanics using the Godot engine.
+- 💡 **Approach:** Learning by building lightweight, real-world tools.
 
-- Currently focused on learning Python
-- Interested in software development and practical applications
-- Building projects to gain hands-on experience
-- Game development as a hobby, mainly with Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
-
-<br>
+---
 
 <p align="center">
-  <sub>Learning by building. Improving with every project.</sub>
+	<sub><i>Learning by building. Improving with every project.</i></sub>
 </p>
-
-<!--
-**Nero-Works/Nero-Works** is a special repository because its README appears on your GitHub profile.
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
