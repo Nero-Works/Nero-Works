@@ -29,23 +29,12 @@ A Python application for managing and analyzing sales data.
 
 ---
 
-## Interests 🎮
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="40"/>
-</p>
-
-- Game development as a hobby
-- 2D game development with Godot
-- Exploring programming and game mechanics
-
----
-
 ## About Me 📌
 
 - Currently focused on learning Python
 - Interested in software development and practical applications
 - Building projects to gain hands-on experience
+- Game development as a hobby, mainly using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
 
 ---
 
