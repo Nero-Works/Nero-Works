@@ -35,12 +35,6 @@ A Python application for managing and analyzing sales data.
 - Building projects to gain hands-on experience
 - 2D game development as a hobby using Godot <img src="https://skillicons.dev/icons?i=godot" alt="Godot" height="18"/>
 
----
-
-<p align="center">
-  <sub>Learning by building. Improving with every project.</sub>
-</p>
-
 <!--
 **Nero-Works/Nero-Works** is a special repository because its README appears on your GitHub profile.
 - 🔭 I'm currently working on ...
